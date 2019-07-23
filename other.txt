@@ -1,1 +1,2 @@
 dcg02.phx.paypalinc.com
+vip.lvs.paypal.com
