@@ -1,1 +1,0 @@
-phx.paypal.com
