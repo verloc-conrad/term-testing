@@ -1,2 +1,3 @@
 dcg02.phx.paypalinc.com
 vip.lvs.paypal.com
+simba.vip.paypal.com
